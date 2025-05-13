@@ -45,7 +45,8 @@ admin.site.register(Student,StudentAdmin)
 
 ## OUTPUT
 
-![Movie_Database](https://github.com/user-attachments/assets/85d8a9e4-39c7-4aa2-a2b2-9e592d08632a)
+![Movie_Database](https://github.com/user-attachments/assets/5c90c289-5264-4e62-8fd1-6a9f41f31558)
+
 
 
 
